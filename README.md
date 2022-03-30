@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 
-### 🚀 About Me
+# 🚀 About Me
 
 
 My name is Daniel, I am a student pursuing a bachelor of science in information technology with a specialization in web development and database management. I am currently looking for an internship in the web development field. My expected graduation date is September 2022.
